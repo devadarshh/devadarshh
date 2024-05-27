@@ -3,6 +3,20 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/ashut123/ashut123/blob/main/gif.gif">
 
+## 🙋‍♂️ About Me
+•⁠  ⁠🌱 I’m currently learning *Data Structures and Algorithms.*
+
+•⁠  ⁠👯 I’m looking to collaborate on *OpenSource Projects.*
+  
+•⁠  ⁠👨‍💻 All of my projects are available in my [Portfolio](https://github.com/devadarshh)
+
+•⁠  ⁠💬 Ask me about *HTML,CSS, JavaScript,React, MySQL, Oops, Data structure,Figma, and C++*
+
+•⁠  ⁠📫 How to reach me *imadarshsingh2002@gmail.com*
+
+•⁠  ⁠📄 Know about my experiences [Resume](https://drive.google.com/file/d/1trYhU45KS5ubWmH1X4XH42KpRJaT6sVz/view?usp=drive_link)
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devadarshh&label=Profile%20views&color=0e75b6&style=flat" alt="devadarshh" /> </p>
