@@ -10,7 +10,7 @@
   
 •⁠  ⁠👨‍💻 All of my projects are available in my [Portfolio](https://github.com/devadarshh)
 
-•⁠  ⁠💬 Ask me about *HTML,CSS, JavaScript,React, MySQL, Oops, Data structure,Figma, and C++*
+•⁠  ⁠💬 Ask me about *HTML, CSS, JavaScript, React, Node,js, Express.js , MongoDB, MySQL, Oops, Data structure, Figma, and C++*
 
 •⁠  ⁠📫 How to reach me *imadarshsingh2002@gmail.com*
 
