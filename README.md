@@ -14,7 +14,7 @@
 
 •⁠  ⁠📫 How to reach me *imadarshsingh2002@gmail.com*
 
-•⁠  ⁠📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aMmXYmlDBKJPNW8XU8kq5o6ofHuZTOiF/view?usp=drivesdk)
+•⁠  ⁠📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FDuAM_XHrkevmTx1AIma1ipQQn0fkZC8/view?usp=sharing)
 
 
 
