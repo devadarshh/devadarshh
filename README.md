@@ -1,7 +1,5 @@
-![logo](https://github.com/devadarshh/devadarshh/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/ashut123/ashut123/blob/main/gif.gif">
+<h3 align="center">Focused on shipping products that matter.</h3>
 
 ## 🙋‍♂️ About Me
 •⁠  ⁠🌱 I’m currently learning *Data Structures and Algorithms.*
