@@ -49,8 +49,9 @@
 #### ⚡ Backend & Infra  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40" alt="Socket.IO"/>
 </p>
 
 #### ⚡ Databases & ORM  
