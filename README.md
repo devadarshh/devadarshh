@@ -20,7 +20,7 @@
 
 ---
 ### 📄 Resume  
-[📁 My Resume (Google Drive Link)](https://drive.google.com/file/d/1lOJ1yiy51aF1u62xM3NVLewPpwsfK62g/view?usp=sharing)  
+[📁 My Resume](https://drive.google.com/file/d/1lOJ1yiy51aF1u62xM3NVLewPpwsfK62g/view?usp=sharing)  
 
 ---
 ### 🌐 Connect with Me  
