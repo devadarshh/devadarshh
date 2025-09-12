@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/📄-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive" alt="Resume" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://portfolio-rust-two-0r6yhiev8u.vercel.app" target="_blank">
+  <a href="https://devadarshh.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-green?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
 </p>
