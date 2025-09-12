@@ -19,7 +19,10 @@
 - ⚡ Fun fact: **Big Marvel fan 🦸‍♂️**
 
 ---
+### 📄 Resume  
+[📁 My Resume (Google Drive Link)](https://drive.google.com/file/d/1lOJ1yiy51aF1u62xM3NVLewPpwsfK62g/view?usp=sharing)  
 
+---
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://x.com/imadarsh2002" target="_blank">
