@@ -19,8 +19,17 @@
 - ⚡ Fun fact: **Big Marvel fan 🦸‍♂️**
 
 ---
-### 📄 Resume  
-[📁 My Resume](https://drive.google.com/file/d/1lOJ1yiy51aF1u62xM3NVLewPpwsfK62g/view?usp=sharing)  
+### 📄 Resume & Portfolio  
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1lOJ1yiy51aF1u62xM3NVLewPpwsfK62g/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive" alt="Resume" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-rust-two-0r6yhiev8u.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-green?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 ### 🌐 Connect with Me  
