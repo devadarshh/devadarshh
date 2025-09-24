@@ -14,7 +14,8 @@
 ### 🚀 About Me  
 - 🌱 Exploring **DevOps (Docker, GitHub Actions, deployment strategies)**  
 - 💡 Passionate about **scalable systems, clean UI/UX, and startup execution**  
-- 👨‍💻 Open to **new career opportunities & impactful product roles**  
+- 👨‍💻 Open to **new career opportunities & impactful product roles**
+- 🏗 Open-source contributor at **[Cal.com](https://cal.com/)**  
 - 📫 Reach me at **imadarshsingh2002@gmail.com**  
 - ⚡ Fun fact: **Big Marvel fan 🦸‍♂️**
 
