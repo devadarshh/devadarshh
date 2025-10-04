@@ -23,7 +23,7 @@
 ### 📄 Resume & Portfolio  
 
 <p align="center">
-  <a href="https://bit.ly/42GX15H" target="_blank">
+  <a href="https://bit.ly/4mKbYuX" target="_blank">
     <img src="https://img.shields.io/badge/📄-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive" alt="Resume" />
   </a>
   &nbsp;&nbsp;
