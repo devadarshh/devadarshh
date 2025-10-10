@@ -35,11 +35,11 @@
 ---
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://x.com/imadarsh2002" target="_blank">
+<a href="https://bit.ly/4pZyS4i" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="32" height="32"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/imadarsh-singh" target="_blank">
+<a href="https://bit.ly/3KDohvX" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
 </a>
 </p>
