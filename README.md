@@ -101,18 +101,6 @@
 ![Zod](https://img.shields.io/badge/Zod-2D3748?style=for-the-badge&logo=zod&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### ⚡ Tools, Auth & Others  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" title="Postman"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" title="Figma"/> &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" width="40" height="40" alt="Clerk" title="Clerk Auth"/> &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/48590364?s=200&v=4" width="40" height="40" alt="NextAuth" title="NextAuth"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/JWT_logo.svg" width="40" height="40" alt="JWT" title="JSON Web Token"/> &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/38693317?s=200&v=4" width="40" height="40" alt="Axios" title="Axios"/> &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/76870094?s=200&v=4" width="40" height="40" alt="Zod" title="Zod"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest"/> &nbsp;
-</p>
 ---
 
 ### 📊 GitHub Analytics  
