@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">Focused on shipping products that matter 🚀</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/💼-Currently%20looking%20for%20roles-blue?style=for-the-badge" alt="Job Hunting Badge" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devadarshh&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
