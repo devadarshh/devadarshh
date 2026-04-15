@@ -50,7 +50,7 @@ I design and build **production-ready systems**, not just projects.
 - 📄 500+ PDFs processed  
 - ⚡ Avg response time: <2s  
 
-🌐 **Live Demo:** https://notebotlm.xyz/dashboard  
+🌐 **Live Demo:** https://notebotlm.xyz/auth/signin 
 
 **✨ Highlights:**
 - 📄 Upload PDFs → get **source-grounded answers**
