@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">🚀 Full Stack Engineer | AI + SaaS + Microservices | Open Source Contributor</h3>
 
-<p align="center">
+<!-- <p align="center">
   I build production-grade AI-powered applications, scalable SaaS platforms, and real-time systems that solve real-world problems.
-</p>
+</p> -->
 
----
 
 ## 🚀 About Me  
 
