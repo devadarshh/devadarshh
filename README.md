@@ -145,7 +145,7 @@ I design and build **production-ready systems**, not just projects.
     <img src="https://img.shields.io/badge/📄-View%20Resume-blue?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://devadarshh.vercel.app/" target="_blank">
+  <a href="https://adarshsingh.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Visit%20Portfolio-green?style=for-the-badge" />
   </a>
 </p>
