@@ -141,7 +141,7 @@ I design and build **production-ready systems**, not just projects.
 ## 📄 Resume & Portfolio  
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1iFvskY1_HEDdzi0znDkThgjrZobYvLAV/view" target="_blank">
+  <a href="https://dub.sh/WVb6YTA" target="_blank">
     <img src="https://img.shields.io/badge/📄-View%20Resume-blue?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
