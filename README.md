@@ -33,6 +33,7 @@ I design and build **production-ready systems**, not just projects.
 
 | Repo | PR | Impact |
 |------|-----|--------|
+| **Logto** | [#8638](https://github.com/logto-io/logto/pull/8638) | Built and shipped a complete **MailJunky email connector** → added production-ready email delivery integration with templates, i18n support, API validation, and testing |
 | **Logto** | [#8651](https://github.com/logto-io/logto/pull/8651) | Improved **Audit Log & Webhook filtering** by adding search → better developer experience |
 | **Cal.com** | [#23964](https://github.com/calcom/cal.com/pull/23964) | Fixed **RTL UI issue** in phone input → improved global usability |
 | **Cal.com** | [#28719](https://github.com/calcom/cal.com/pull/28719) | Fixed **localization bug (Russian)** → ensured accurate multilingual booking flow |
