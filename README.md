@@ -44,6 +44,31 @@ I design and build **production-ready systems**, not just projects.
 
 ## 🚀 Featured Projects  
 
+### ⚡ [Flashbot](https://github.com/devadarshh/flashbot) — AI-Powered SaaS Support Platform
+
+📊 **Metrics:**
+
+* 👥 Multi-tenant SaaS architecture
+* ⚡ Sub-100ms support query targets
+* 🤖 AI-powered business knowledge assistant
+* 🔒 Strict tenant data isolation
+
+🌐 **Live Demo:** https://flashbot.adarshsingh.xyz/
+
+**✨ Highlights:**
+
+* 💬 Embeddable support widget for any website
+* 🤖 AI-powered customer support using RAG pipelines
+* 📊 Admin dashboard for conversations, analytics, and configuration
+* 🔐 Authentication and tenant management
+* 📄 Business knowledge ingestion from web content and documents
+* 🐳 Dockerized deployment with CI/CD automation
+* ⚡ Real-time chat experience with source-grounded responses
+
+**🛠 Tech:**
+`Next.js 15` `TypeScript` `PostgreSQL` `Drizzle ORM` `Gemini AI` `RAG` `Docker` `GitHub Actions` `Tailwind CSS` `ShadCN UI`
+
+
 ### 🧠 [NoteBot LM](https://github.com/devadarshh/NoteBotLM) — AI Study Assistant  
 
 📊 **Metrics:**
