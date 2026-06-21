@@ -66,7 +66,7 @@ I design and build **production-ready systems**, not just projects.
 * ⚡ Real-time chat experience with source-grounded responses
 
 **🛠 Tech:**
-`Next.js 15` `TypeScript` `PostgreSQL` `Drizzle ORM` `Gemini AI` `RAG` `Docker` `GitHub Actions` `Tailwind CSS` `ShadCN UI`
+`Next.js 15` `TypeScript` `PostgreSQL` `Drizzle ORM` `Gemini AI` `RAG` `Tailwind CSS` `ShadCN UI`
 
 
 ### 🧠 [NoteBot LM](https://github.com/devadarshh/NoteBotLM) — AI Study Assistant  
