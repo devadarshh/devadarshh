@@ -95,7 +95,7 @@ I design and build **production-ready systems**, not just projects.
 - 🏢 Multi-tenant architecture  
 - ⚡ Scalable service-based backend  
 
-🌐 **Live Demo:** https://trelloidapp.vercel.app/  
+🌐 **Live Demo:** https://trelloid.adarshsingh.xyz/ 
 
 **✨ Highlights:**
 - 🧩 Boards, lists, cards (Trello-style system)  
